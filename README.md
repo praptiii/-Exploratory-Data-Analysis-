@@ -1,4 +1,4 @@
-# -Exploratory-Data-Analysis-
+# Exploratory-Data-Analysis
 Task 5
 
 This task explores the Titanic dataset to identify key factors influencing passenger survival using Python libraries: **Pandas**, **Matplotlib**, and **Seaborn**.
